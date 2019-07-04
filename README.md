@@ -4,3 +4,4 @@
 ## 2) procedure , func , defer , guard 
 ## 3) optionals
 ## 4) OOP
+## 5) struct
