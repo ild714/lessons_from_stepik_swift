@@ -5,3 +5,4 @@
 ## 3) optionals
 ## 4) OOP
 ## 5) struct
+## 6) enum
