@@ -9,3 +9,4 @@
 ## 7) generic
 ## 8) protocol and extension
 ## 9) dict and array
+## 10) closures
