@@ -10,4 +10,4 @@
 ## 8) protocol and extension
 ## 9) dict and array
 ## 10) closures
-## 11) functions of standart library
+## 11) functions of standard library
