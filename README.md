@@ -7,3 +7,4 @@
 ## 5) struct
 ## 6) enum
 ## 7) generic
+## 8) protocol and extension
