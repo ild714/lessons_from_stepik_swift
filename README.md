@@ -11,3 +11,4 @@
 ## 9) dict and array
 ## 10) closures
 ## 11) functions of standard library
+## 12) switch and JSON
