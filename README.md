@@ -1,5 +1,5 @@
 # lessons_from_stepik_swift
-# A
+# 1.
 ## 1) Variables and constants , control flow , loop , for each , exception
 ## 2) procedure , func , defer , guard 
 ## 3) optionals
@@ -13,4 +13,4 @@
 ## 11) functions of standard library
 ## 12) switch and JSON
 __________________________________________________________________________________________________________________________
-#B
+# 2.
